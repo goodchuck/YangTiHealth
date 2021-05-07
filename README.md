@@ -1,7 +1,10 @@
 # 헬스 기록지 웹(YangTiHealth)
 ## 사용프로그램 : Eclipse, STS4, MySql
 ### Spring을 이용한 운동 기록지 웹이며 MySql로 DB들을 관리하고 로그인과 회원가입을하여 게시글을 작성할 수 있는 기본적인 CURD의 웹입니다.
-
+### 사용된 패키지와 클래스
+#### 패키지 : controller, main
+![사용된 jsp](https://user-images.githubusercontent.com/79144494/117443917-be13ca80-af73-11eb-9165-6afbc14927e7.PNG)
+![사용된 패키지와 클래스들](https://user-images.githubusercontent.com/79144494/117443922-beac6100-af73-11eb-8992-56db23923640.PNG)
 ## 화면구성
 ### 메인화면 - 웹에 들어올시 기본으로 보이는 화면이며 DB에 등록된글들이 게시글번호에 맞춰서 출력됩니다.
 ![메인화면](https://user-images.githubusercontent.com/79144494/117442622-fca88580-af71-11eb-8025-c93a6c23aa3b.PNG)
@@ -17,3 +20,5 @@
 ![등록하기클릭시](https://user-images.githubusercontent.com/79144494/117442720-1a75ea80-af72-11eb-95e9-6e42500d16b0.PNG)
 ### 메뉴들 - 예시로 현재 이용하고있는 운동 종류들을 기입했으며 바꿀수있습니다.
 ![메뉴들](https://user-images.githubusercontent.com/79144494/117443248-dafbce00-af72-11eb-8cd6-2641beabfc50.PNG)
+
+
