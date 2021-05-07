@@ -2,7 +2,7 @@
 ## 사용프로그램 : Eclipse, STS4, MySql
 ### Spring을 이용한 운동 기록지 웹이며 MySql로 DB들을 관리하고 로그인과 회원가입을하여 게시글을 작성할 수 있는 기본적인 CURD의 웹입니다.
 
-### 화면구성
+## 화면구성
 ### 메인화면 - 웹에 들어올시 기본으로 보이는 화면이며 DB에 등록된글들이 게시글번호에 맞춰서 출력됩니다.
 ![메인화면](https://user-images.githubusercontent.com/79144494/117442622-fca88580-af71-11eb-8025-c93a6c23aa3b.PNG)
 ### 접속하기클릭시 - 접속하기클릭시 나오는 메뉴들
@@ -15,3 +15,5 @@
 ![회원가입 클릭시](https://user-images.githubusercontent.com/79144494/117442696-12b64600-af72-11eb-83b9-c5bf40b9a368.PNG)
 ### 등록하기클릭시 - 로그인을 하여야만 생기는 버튼으로 클릭시 게시글 입력 양식이 나타납니다.
 ![등록하기클릭시](https://user-images.githubusercontent.com/79144494/117442720-1a75ea80-af72-11eb-95e9-6e42500d16b0.PNG)
+### 메뉴들 - 예시로 현재 이용하고있는 운동 종류들을 기입했으며 바꿀수있습니다.
+![메뉴들](https://user-images.githubusercontent.com/79144494/117443248-dafbce00-af72-11eb-8cd6-2641beabfc50.PNG)
